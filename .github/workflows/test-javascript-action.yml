@@ -1,4 +1,4 @@
-name: Test-JavascriptAction
+name: Test-Javascript-Action
 
 on: 
   workflow_dispatch:
